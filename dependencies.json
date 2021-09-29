@@ -26,8 +26,8 @@
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/51/2f/4d5d5afb7000b9151e33952b59163c9389bd867ac6fe85d62f85831fa061/PyGObject-3.40.1.tar.gz",
-    "sha256": "6fb599aa59ceb9dd05fafb0d72b3862943e7d5e85c8ef6c74856bc6d4321cbab"
+    "url": "https://files.pythonhosted.org/packages/cc/72/48cfdd7a0caf3c27f392d2657731ac6f7c3c1c0a60bfeba3e1ba9ffa7ba9/PyGObject-3.42.0.tar.gz",
+    "sha256": "b9803991ec0b0b4175e81fee0ad46090fa7af438fe169348a9b18ae53447afcd"
   },
   {
     "type": "file",
@@ -41,8 +41,8 @@
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/51/8e/1f9811ff26c04ff16e406e2cd7e5fc9b1e21ac80fcbaa29f38077733492b/Unidecode-1.3.0.tar.gz",
-    "sha256": "9f8235681cc520912fe02e7dd73d455c2f0471f39d36485bc278b97b3e2f2390"
+    "url": "https://files.pythonhosted.org/packages/41/a6/93288318cfae2fa0ca978dfe6bb94b22b7e9a9e98b6149a4af00b1e76ee8/Unidecode-1.3.2.tar.gz",
+    "sha256": "669898c1528912bcf07f9819dc60df18d057f7528271e31f8ec28cc88ef27504"
   },
   {
     "type": "file",
