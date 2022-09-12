@@ -15,6 +15,7 @@ modules:
       # Build locales
       - ./build-locales.py
       # Build and install some packages at first
+      - pip3 install --verbose --exists-action=i --no-index --find-links="file://${PWD}" --prefix="${FLATPAK_DEST}" "setuptools" --no-build-isolation
       - pip3 install --verbose --exists-action=i --no-index --find-links="file://${PWD}" --prefix="${FLATPAK_DEST}" "cffi" --no-build-isolation
       - pip3 install --verbose --exists-action=i --no-index --find-links="file://${PWD}" --prefix="${FLATPAK_DEST}" "scmver" --no-build-isolation
       - pip3 install --verbose --exists-action=i --no-index --find-links="file://${PWD}" --prefix="${FLATPAK_DEST}" "pycairo" --no-build-isolation
@@ -27,5 +28,5 @@ modules:
         path: ./build-locales.py
       - type: git
         url: "https://github.com/flozz/yoga-image-optimizer.git"
-        tag: v1.1.1
-        commit: be4fafcfabede366bc96f71893ce2e98530a2a79
+        tag: v1.1.2
+        commit: 2585a1ef03411b3631e7e0639fada1731ed16909

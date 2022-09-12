@@ -1,57 +1,62 @@
 [
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/2e/92/87bb61538d7e60da8a7ec247dc048f7671afe17016cd0008b3b710012804/cffi-1.14.6.tar.gz",
-    "sha256": "c9a875ce9d7fe32887784274dd533c57909b7b1dcadcc128a2ac21331a9765dd"
+    "url": "https://files.pythonhosted.org/packages/2b/a8/050ab4f0c3d4c1b8aaa805f70e26e84d0e27004907c5b8ecc1d31815f92a/cffi-1.15.1.tar.gz",
+    "sha256": "d400bfb9a37b1351253cb402671cea7e89bdecc294e8016a707f6d1d8ac934f9"
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/0f/86/e19659527668d70be91d0369aeaa055b4eb396b0f387a4f92293a20035bd/pycparser-2.20.tar.gz",
-    "sha256": "2d475327684562c3a96cc71adf7dc8c4f0565175cf86b6d7a404ff4c771f15f0"
+    "url": "https://files.pythonhosted.org/packages/62/d5/5f610ebe421e85889f2e55e33b7f9a6795bd982198517d912eb1c76e1a53/pycparser-2.21-py2.py3-none-any.whl",
+    "sha256": "8ee45429555515e1f6b185e78100aea234072576aa43ab53aefcae078162fca9"
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/84/93/75759e9b02358839c4272fcf667fd03f65424cf5a70a68b4830fd2345feb/mozjpeg-lossless-optimization-1.0.0.tar.gz",
-    "sha256": "11707d0ebf2fb1403c21d04cb239778ce901cf1be860366ef792b901ebb22eed"
+    "url": "https://files.pythonhosted.org/packages/77/da/33c5f90d0594d3addfb0d5de01d2dc22e6b0e6a26b5bc41fa14b7644a7af/imagequant-1.0.3.tar.gz",
+    "sha256": "063d688fc301110aa9bc4a123729be9d17a488d69b97f2b448e8b7a03d1fe6cd"
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/90/d4/a7c9b6c5d176654aa3dbccbfd0be4fd3a263355dc24122a5f1937bdc2689/Pillow-8.3.2.tar.gz",
-    "sha256": "dde3f3ed8d00c72631bc19cbfff8ad3b6215062a5eed402381ad365f82f0c18c"
+    "url": "https://files.pythonhosted.org/packages/c1/62/1cda722994411a0a32929d51c72c68d8c3f02423795e6367fa1c2e172ac4/mozjpeg-lossless-optimization-1.1.1.tar.gz",
+    "sha256": "7a46d974ecf6547d0bb756e0d91fd046f75903ffc5608326ea3f781e33fbeb0e"
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/bc/3f/64e6e066d163fbcf13213f9eeda0fc83376243335ea46a66cefd70d62e8f/pycairo-1.20.1.tar.gz",
-    "sha256": "1ee72b035b21a475e1ed648e26541b04e5d7e753d75ca79de8c583b25785531b"
+    "url": "https://files.pythonhosted.org/packages/8c/92/2975b464d9926dc667020ed1abfa6276e68c3571dcb77e43347e15ee9eed/Pillow-9.2.0.tar.gz",
+    "sha256": "75e636fd3e0fb872693f23ccb8a5ff2cd578801251f3a4f6854c6a5d437d3c04"
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/cc/72/48cfdd7a0caf3c27f392d2657731ac6f7c3c1c0a60bfeba3e1ba9ffa7ba9/PyGObject-3.42.0.tar.gz",
-    "sha256": "b9803991ec0b0b4175e81fee0ad46090fa7af438fe169348a9b18ae53447afcd"
+    "url": "https://files.pythonhosted.org/packages/92/a4/506564f574fa74c90b98690e8ecc8dbae1629f31fcfe0be69de45d9e1605/pycairo-1.21.0.tar.gz",
+    "sha256": "251907f18a552df938aa3386657ff4b5a4937dde70e11aa042bc297957f4b74b"
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/10/f5/7bcc9a4214973f0f0bc34529ea2db7ae84b7ba811749da389a477461a6f9/pyguetzli-1.0.9.tar.gz",
-    "sha256": "6166ebe6b59b88701c2df69d9088ddcafd0de972df974455c35da570b6a1517b"
+    "url": "https://files.pythonhosted.org/packages/fe/40/9afaeb8d3b453fb8596fcb6c7bc2b64e434868c91eda19955742778eff74/PyGObject-3.42.2.tar.gz",
+    "sha256": "21524cef33100c8fd59dc135948b703d79d303e368ce71fa60521cc971cd8aa7"
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/03/ce/2827a8171afebd1ca9b082320c32387ffcdfd37cec2ec920240f7bf9d5da/scmver-1.2.zip",
-    "sha256": "4fea6b794d848275e339d774b5bfff5ffcf51b2ff59c262a85978ccb11f80a1b"
+    "url": "https://files.pythonhosted.org/packages/a2/f6/553fbd4c9a55b6e97c51edde2f406f581d164648fc050701540f41531751/pyguetzli-1.0.11.tar.gz",
+    "sha256": "30cc5c41cfbbb42065486d62c6a5294860e74ce6ded250715c926f5a404d7469"
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/41/a6/93288318cfae2fa0ca978dfe6bb94b22b7e9a9e98b6149a4af00b1e76ee8/Unidecode-1.3.2.tar.gz",
-    "sha256": "669898c1528912bcf07f9819dc60df18d057f7528271e31f8ec28cc88ef27504"
+    "url": "https://files.pythonhosted.org/packages/59/c2/38d53a890af9e66e529ffa08f3dee609a12883761cd53330ef5a27878d7b/scmver-1.4-py2.py3-none-any.whl",
+    "sha256": "f70640c568f887b543d08e2cd9fc59d1a11925bae3d8bd467ed38abc91ac3f38"
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/14/8c/3a7dcf13c16751d8d1a514df9d6eaae4f4b1579414f12654f5d8314be422/yoga-1.1.0.tar.gz",
-    "sha256": "dc240470806a369df29f9beeab88316df0f5bb7cc3ac092b00953cb55f0ca45e"
+    "url": "https://files.pythonhosted.org/packages/f9/5b/7603add7f192252916b85927263b598c74585f82389e6e42318a6278159b/Unidecode-1.3.4-py3-none-any.whl",
+    "sha256": "afa04efcdd818a93237574791be9b2817d7077c25a068b00f8cff7baa4e59257"
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/ce/6a/a781674dc1c3868589aff00eaebc4dafba639bade7e6753cf177d2bc6628/zopflipy-1.6.zip",
-    "sha256": "34f05504b04d03da5a771452de28f2f3489077a313c8db557efa43356d2e9c0d"
+    "url": "https://files.pythonhosted.org/packages/5c/6b/47581caeaf5e802e2c9ca17d9df258a66be595537658aae0c18d28a05f3b/yoga-1.2.1.tar.gz",
+    "sha256": "6553c9ba6d4ff024b1d37b91e3e633a172d284ac14734e2e5cb244438af07681"
+  },
+  {
+    "type": "file",
+    "url": "https://files.pythonhosted.org/packages/0b/7a/f1370e0d181f7c98c71e60f9b723ac24af6bfb91e4656027b61a593bbdc3/zopflipy-1.7.zip",
+    "sha256": "617c48caa17cce607d7034d573e7045e4942a69f1426c8b1e7aecc867609bd33"
   }
 ]

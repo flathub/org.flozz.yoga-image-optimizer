@@ -12,7 +12,7 @@ python3 -m venv pydep.build/__env__
 source pydep.build/__env__/bin/activate
 
 # Install YOGA Image Optimizer and export its dependencies
-# NOTE: also install some addintional dependencies
+# NOTE: also install some additional dependencies
 pip install yoga-image-optimizer
 pip install -r additional-requirements.txt
 pip freeze --all | grep -v pkg-resources > pydep.build/requirements.txt
