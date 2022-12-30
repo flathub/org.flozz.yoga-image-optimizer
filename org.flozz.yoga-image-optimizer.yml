@@ -28,5 +28,5 @@ modules:
         path: ./build-locales.py
       - type: git
         url: "https://github.com/flozz/yoga-image-optimizer.git"
-        tag: v1.2.1
-        commit: fd509a47543f6f489bfdc6478f1e0d134205cfdb
+        tag: v1.2.2
+        commit: ccf58bead923215082e4a2c91774095f8b5a6d99
