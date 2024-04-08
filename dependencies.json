@@ -6,13 +6,28 @@
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/62/d5/5f610ebe421e85889f2e55e33b7f9a6795bd982198517d912eb1c76e1a53/pycparser-2.21-py2.py3-none-any.whl",
-    "sha256": "8ee45429555515e1f6b185e78100aea234072576aa43ab53aefcae078162fca9"
+    "url": "https://files.pythonhosted.org/packages/13/a3/a812df4e2dd5696d1f351d58b8fe16a405b234ad2886a0dab9183fb78109/pycparser-2.22-py3-none-any.whl",
+    "sha256": "c3702b6d3dd8c7abc1afa565d7e63d53a1d0bd86cdc24edd75470f4de499cfcc"
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/1b/a5/cda149a6e1b4c7da35bed764ef5f87955814e7990586bc9ad5b8216ee408/imagequant-1.1.0.tar.gz",
-    "sha256": "31f9f6f3a9444616ae298116c92a68f3d49a3dbb62376dbe965ed0d8b6eff454"
+    "url": "https://files.pythonhosted.org/packages/8a/fa/e7b7cd1c1cab7034c2d039e462c1f87313f69916b8be6c0b77128919e69a/imagequant-1.1.1.tar.gz",
+    "sha256": "414e56ed4aec39526aca4c6bb35da5cbfd889ee3e51ff02682d14ccc007c6567"
+  },
+  {
+    "type": "file",
+    "url": "https://files.pythonhosted.org/packages/1f/60/b10b11ab470a690d5777310d6cfd1c9bdbbb0a1313a78c34a1e82e0b9d27/meson_python-0.15.0-py3-none-any.whl",
+    "sha256": "3ae38253ff02b2e947a05e362a2eaf5a9a09d133c5666b4123399ee5fbf2e591"
+  },
+  {
+    "type": "file",
+    "url": "https://files.pythonhosted.org/packages/49/df/1fceb2f8900f8639e278b056416d49134fb8d84c5942ffaa01ad34782422/packaging-24.0-py3-none-any.whl",
+    "sha256": "2ddfb553fdf02fb784c234c7ba6ccc288296ceabec964ad2eae3777778130bc5"
+  },
+  {
+    "type": "file",
+    "url": "https://files.pythonhosted.org/packages/c4/cb/4678dfd70cd2f2d8969e571cdc1bb1e9293c698f8d1cf428fadcf48d6e9f/pyproject_metadata-0.7.1-py3-none-any.whl",
+    "sha256": "28691fbb36266a819ec56c9fa1ecaf36f879d6944dfde5411e87fc4ff793aa60"
   },
   {
     "type": "file",
@@ -21,18 +36,18 @@
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/f8/3e/32cbd0129a28686621434cbf17bb64bf1458bfb838f1f668262fefce145c/pillow-10.2.0.tar.gz",
-    "sha256": "e87f0b2c78157e12d7686b27d63c070fd65d994e8ddae6f328e0dcf4a0cd007e"
+    "url": "https://files.pythonhosted.org/packages/ef/43/c50c17c5f7d438e836c169e343695534c38c77f60e7c90389bd77981bc21/pillow-10.3.0.tar.gz",
+    "sha256": "9d2455fbf44c914840c793e89aa82d0e1763a14253a000743719ae5946814b2d"
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/c7/7c/de4d40316ee563e4f15a0f05f28c8458833fbef80c4588b9dd51f39b78ee/pycairo-1.25.1.tar.gz",
-    "sha256": "7e2be4fbc3b4536f16db7a11982cbf713e75069a4d73d44fe5a49b68423f5c0c"
+    "url": "https://files.pythonhosted.org/packages/1c/41/91955188e97c7b85fbaac6bbf4e33de028899e0aa31bdce99b1afe2eeb17/pycairo-1.26.0.tar.gz",
+    "sha256": "2dddd0a874fbddb21e14acd9b955881ee1dc6e63b9c549a192d613a907f9cbeb"
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/ac/4a/f24ddf1d20cc4b56affc7921e29928559a06c922eb60077448392792b914/PyGObject-3.46.0.tar.gz",
-    "sha256": "481437b05af0a66b7c366ea052710eb3aacbb979d22d30b797f7ec29347ab1e6"
+    "url": "https://files.pythonhosted.org/packages/f9/9e/6bab1ed3bd878f0912d9a0600c21f3d88bab0e8a8d4c3ce50f5cf336faaf/pygobject-3.48.2.tar.gz",
+    "sha256": "c3c0a7afbe5b2c1c64dc0530109b4dd571085153dbedfbccb8ec7c5ad233f977"
   },
   {
     "type": "file",
@@ -41,13 +56,13 @@
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/14/ba/0afbd45415e78ced9dee7db996bef87e7eec2ebe5d4dfcf96802635d5520/scmver-1.6-py2.py3-none-any.whl",
-    "sha256": "acf600de973b40b042e41340d92ce3eda77037379f80181fd99b917bf2b7eb3b"
+    "url": "https://files.pythonhosted.org/packages/c3/10/d746d94a5edb100a25e0811b3050e59f4649bf17ead65772062b5a387bb9/scmver-1.7-py2.py3-none-any.whl",
+    "sha256": "80cadfcdf235f4fb021489c040d8e1bca387f23cf2944094598b8a28f1a50cba"
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/e4/63/7685ef40c65aba621ccd2524a24181bf11f0535ab1fdba47e40738eacff6/Unidecode-1.3.7-py3-none-any.whl",
-    "sha256": "663a537f506834ed836af26a81b210d90cbde044c47bfbdc0fbbc9f94c86a6e4"
+    "url": "https://files.pythonhosted.org/packages/84/b7/6ec57841fb67c98f52fc8e4a2d96df60059637cba077edc569a302a8ffc7/Unidecode-1.3.8-py3-none-any.whl",
+    "sha256": "d130a61ce6696f8148a3bd8fe779c99adeb4b870584eeb9526584e9aa091fd39"
   },
   {
     "type": "file",
@@ -56,7 +71,7 @@
   },
   {
     "type": "file",
-    "url": "https://files.pythonhosted.org/packages/cd/da/59ab2f24139f792a7d062cf7f1334f199f522e7c26b54c8146e42ec995c1/zopflipy-1.9.zip",
-    "sha256": "9e1bef51c7a3cfb8113774d5fb4f86dae6d416c4a58f037e83ea762d4b0a9313"
+    "url": "https://files.pythonhosted.org/packages/c7/76/d5adb5301973739a7e42097db7e9fd87a412388d0e677a6f839d711e0e56/zopflipy-1.10.zip",
+    "sha256": "1784692308cf573c4a851eb8af9bb22e9ad26b89035aeb18e5c01d04e4511218"
   }
 ]

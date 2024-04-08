@@ -19,6 +19,7 @@ modules:
       - pip3 install --verbose --exists-action=i --no-index --find-links="file://${PWD}" --prefix="${FLATPAK_DEST}" "cffi" --no-build-isolation
       - pip3 install --verbose --exists-action=i --no-index --find-links="file://${PWD}" --prefix="${FLATPAK_DEST}" "scmver" --no-build-isolation
       - pip3 install --verbose --exists-action=i --no-index --find-links="file://${PWD}" --prefix="${FLATPAK_DEST}" "pycairo" --no-build-isolation
+      - pip3 install --verbose --exists-action=i --no-index --find-links="file://${PWD}" --prefix="${FLATPAK_DEST}" "meson-python" --no-build-isolation
       # Build and install YOGA Image Optimizer itself
       - CXXFLAGS=-Wno-error pip3 install --verbose --exists-action=i --no-index --find-links="file://${PWD}" --prefix="${FLATPAK_DEST}" "." --no-build-isolation
       - ./linuxpkg/copy-data.sh ${FLATPAK_DEST}
@@ -28,5 +29,5 @@ modules:
         path: ./build-locales.py
       - type: git
         url: "https://github.com/flozz/yoga-image-optimizer.git"
-        tag: v1.2.3
-        commit: 9117965abcce69d4bf61f71cce874cc479b03fd4
+        tag: v1.2.4
+        commit: 6b61a29f08def515847a79e19d66397562c07253

@@ -1,1 +1,2 @@
 scmver
+meson-python
