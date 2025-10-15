@@ -1,6 +1,6 @@
 app-id: org.flozz.yoga-image-optimizer
 runtime: org.freedesktop.Platform
-runtime-version: "23.08"
+runtime-version: "25.08"
 sdk: org.freedesktop.Sdk
 command: yoga-image-optimizer
 finish-args:
@@ -18,8 +18,8 @@ modules:
       - pip3 install --verbose --exists-action=i --no-index --find-links="file://${PWD}" --prefix="${FLATPAK_DEST}" "setuptools" --no-build-isolation
       - pip3 install --verbose --exists-action=i --no-index --find-links="file://${PWD}" --prefix="${FLATPAK_DEST}" "cffi" --no-build-isolation
       - pip3 install --verbose --exists-action=i --no-index --find-links="file://${PWD}" --prefix="${FLATPAK_DEST}" "scmver" --no-build-isolation
-      - pip3 install --verbose --exists-action=i --no-index --find-links="file://${PWD}" --prefix="${FLATPAK_DEST}" "pycairo" --no-build-isolation
       - pip3 install --verbose --exists-action=i --no-index --find-links="file://${PWD}" --prefix="${FLATPAK_DEST}" "meson-python" --no-build-isolation
+      - pip3 install --verbose --exists-action=i --no-index --find-links="file://${PWD}" --prefix="${FLATPAK_DEST}" "pycairo" --no-build-isolation
       # Build and install YOGA Image Optimizer itself
       - CXXFLAGS=-Wno-error pip3 install --verbose --exists-action=i --no-index --find-links="file://${PWD}" --prefix="${FLATPAK_DEST}" "." --no-build-isolation
       - ./linuxpkg/copy-data.sh ${FLATPAK_DEST}
