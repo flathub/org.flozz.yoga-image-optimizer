@@ -1,5 +1,11 @@
 #!/bin/bash
 
+#
+# NOTE: requirements (Ubuntu):
+# libcairo2-dev
+# libgirepository-2.0-dev
+#
+
 mkdir -p pydep.build
 
 # Delete any old virtualenv to be sure te recreate a clean one
@@ -21,7 +27,7 @@ pip freeze --all | grep -v pkg-resources > pydep.build/requirements.txt
 pip install requirements-parser
 wget \
     -O pydep.build/flatpak-pip-generator.py \
-    https://raw.githubusercontent.com/flatpak/flatpak-builder-tools/master/pip/flatpak-pip-generator
+    https://raw.githubusercontent.com/flatpak/flatpak-builder-tools/master/pip/flatpak-pip-generator.py
 
 # Generate the dependency file
 python pydep.build/flatpak-pip-generator.py \
